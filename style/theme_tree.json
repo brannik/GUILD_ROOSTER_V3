@@ -1,0 +1,11 @@
+{
+    "default":{
+        "name":"Default",
+        "index":"../style/default/pages/home.html",
+        "login":"../style/default/pages/login.html"
+    },
+    "wotlk":{
+        "name":"WOTLK",
+        "path_to_files":""
+    }
+}
